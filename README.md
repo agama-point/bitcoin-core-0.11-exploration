@@ -4,3 +4,5 @@ A study and exploration repository focused on the internal architecture, source 
 ---
 
 https://github.com/bitcoin/bitcoin | https://github.com/bitcoin/bitcoin/tree/master/doc
+
+https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-0.10.0.md
